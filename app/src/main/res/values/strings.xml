@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Translation Notes</string>
+    <string name="refresh">Refresh</string>
+    <string name="manage_groups">Manage Groups</string>
+    <string name="manage_translations">Manage Translations</string>
+    <string name="enter_group_title">Enter Group Title</string>
+    <string name="enter_original_text">Enter Original Text</string>
+    <string name="enter_Translation_text">Enter Translation Text</string>
+    <string name="group_title">Group Title</string>
+    <string name="add">Add</string>
+    <string name="original_text">Original Text</string>
+    <string name="translation_text">Translation</string>
+    <string name="new_group">New Group</string>
+    <string name="new_translation">New Translation</string>
+</resources>
